@@ -30,10 +30,8 @@ class Trabajadores extends \yii\db\ActiveRecord
     public function rules()
     {
         return [
-            [['id', 'nombre', 'apellidos', 'ci'], 'required'],
-            [['id'], 'integer'],
+            [['nombre', 'apellidos', 'ci'], 'required'],
             [['nombre', 'apellidos', 'ci'], 'string', 'max' => 255],
-            [['id'], 'unique'],
         ];
     }
 
@@ -46,7 +44,7 @@ class Trabajadores extends \yii\db\ActiveRecord
             'id' => 'ID',
             'nombre' => 'Nombre',
             'apellidos' => 'Apellidos',
-            'ci' => 'Ci',
+            'ci' => 'CI',
         ];
     }
 
