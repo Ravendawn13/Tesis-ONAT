@@ -4,5 +4,6 @@
     <file url="file://$PROJECT_DIR$/frontend/models/Modentrada.php" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/frontend/views/modentrada/index.php" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/frontend/views/modentrada/view.php" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/frontend/views/modsalida/index.php" charset="UTF-8" />
   </component>
 </project>

@@ -50,13 +50,13 @@ class Modsalida extends \yii\db\ActiveRecord
     {
         return [
             'id' => 'ID',
-            'fsalida' => 'Fsalida',
+            'fsalida' => 'Fecha de Salida',
             'equipo' => 'Equipo',
-            'marca' => 'Marca',
-            'inventario' => 'Inventario',
+            'marca' => 'Marca o Modelo',
+            'inventario' => 'No. Inventario',
             'destino' => 'Destino',
-            'piereparadas' => 'Piereparadas',
-            'recibe' => 'Recibe',
+            'piereparadas' => 'Piezas Puestas o Reparadas',
+            'recibe' => 'Recibe el Medio',
             'created_at' => 'Created At',
             'updated_at' => 'Updated At',
             'created_by' => 'Created By',
