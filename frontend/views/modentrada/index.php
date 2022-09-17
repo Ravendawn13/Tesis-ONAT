@@ -4,7 +4,7 @@ use yii\helpers\Html;
 use yii\helpers\Url;
 use yii\grid\ActionColumn;
 use yii\grid\GridView;
-use \frontend\models\Modentrada;
+use app\models\Modentrada;
 
 /* @var $this yii\web\View */
 /* @var $searchModel frontend\models\ModentradaSearch */
