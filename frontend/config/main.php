@@ -11,6 +11,9 @@ return [
     'basePath' => dirname(__DIR__),
     'bootstrap' => ['log'],
     'controllerNamespace' => 'frontend\controllers',
+    'aliases' => [
+        '@adminlte/widgets'=>'@vendor/adminlte/yii2-widgets'
+    ],
     'components' => [
         'request' => [
             'csrfParam' => '_csrf-frontend',
