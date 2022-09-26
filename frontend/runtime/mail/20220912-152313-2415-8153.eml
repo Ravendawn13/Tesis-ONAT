@@ -1,0 +1,50 @@
+From: My Application robot <support@example.com>
+To: admin@gmail.com
+Subject: Account registration at My Application
+MIME-Version: 1.0
+Date: Mon, 12 Sep 2022 15:23:13 +0200
+Message-ID: <27b31a4c22cb58834ec6332f10e7c8d0@example.com>
+Content-Type: multipart/alternative; boundary=pU3aht3P
+
+--pU3aht3P
+Content-Type: text/plain; charset=utf-8
+Content-Transfer-Encoding: quoted-printable
+
+Hello Admin,
+
+Follow the link below to verify your email:
+
+http://l=
+ocalhost/onat/frontend/web/index.php?r=3Dsite%2Fverify-email&token=3DBlHahj=
+WVVIJOFkMzPapdGUI3Orkoy1xM_1662988992
+--pU3aht3P
+Content-Type: text/html; charset=utf-8
+Content-Transfer-Encoding: quoted-printable
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org=
+/TR/xhtml1/DTD/xhtml1-strict.dtd">
+<html xmlns=3D"http://www.w3.org/1999/=
+xhtml">
+<head>
+    <meta http-equiv=3D"Content-Type" content=3D"text/ht=
+ml; charset=3DUTF-8" />
+    <title></title>
+    </head>
+<body>
+    =
+    <div class=3D"verify-email">
+    <p>Hello Admin,</p>
+
+    <p>Foll=
+ow the link below to verify your email:</p>
+
+    <p><a href=3D"http://l=
+ocalhost/onat/frontend/web/index.php?r=3Dsite%2Fverify-email&amp;token=3DBl=
+HahjWVVIJOFkMzPapdGUI3Orkoy1xM_1662988992">http://localhost/onat/frontend/w=
+eb/index.php?r=3Dsite%2Fverify-email&amp;token=3DBlHahjWVVIJOFkMzPapdGUI3Or=
+koy1xM_1662988992</a></p>
+</div>
+    </body>
+</html>
+
+--pU3aht3P--
